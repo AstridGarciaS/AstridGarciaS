@@ -1,4 +1,5 @@
 <div align="center">
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
@@ -54,13 +55,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/Astrid Garcia Sanchez " target="_blank">
+<a href="https://linkedin.com/in/astrid-garcia-sanchez" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Astrid Garcia Sanchez" target="_blank">
+<a href="https://www.facebook.com/astridgarciasach3z" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/astridgarcia_z" target="_blank">
+<a href="https://instagram.com/astridgarciasach3z" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/AstridGarciaS" target="_blank">
@@ -73,7 +74,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstridGarciaS&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AstridGarciaS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -85,7 +86,7 @@
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/paypal.me/AstridGarciaSanchez" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/AstridGarciaSanchez" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
