@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Astrid</h1>
 <h3 align="center">I'm learning Full-Stack Development at Bloom Institute of Technology</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astridgarcias" alt="astridgarcias" /></a> </p>
-
 - 🔭 I’m currently working on [Single Page Applications](https://github.com/AstridGarciaS/web-sprint-challenge-single-page-applications)
 
 - 🌱 I’m currently learning **SINGLE PAGE APPLICATIONS**
